@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticArray", "StatisticArray\StatisticArray.csproj", "{C89CEBF1-FB41-429A-9A21-78EA91C30DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatisticArray", "StatisticArray\StatisticArray.csproj", "{C89CEBF1-FB41-429A-9A21-78EA91C30DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D272C961-2C1D-4710-A22A-C354BB18CBB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C89CEBF1-FB41-429A-9A21-78EA91C30DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C89CEBF1-FB41-429A-9A21-78EA91C30DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C89CEBF1-FB41-429A-9A21-78EA91C30DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D272C961-2C1D-4710-A22A-C354BB18CBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D272C961-2C1D-4710-A22A-C354BB18CBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D272C961-2C1D-4710-A22A-C354BB18CBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D272C961-2C1D-4710-A22A-C354BB18CBB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
